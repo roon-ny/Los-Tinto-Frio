@@ -1,9 +1,9 @@
-# 🌾 Proyecto AgroSmart  
+#  Proyecto AgroSmart  
 ### Optimización de rutas y tiempos de recolección de cultivos 🚜
 
 ---
 
-## 🌱 ¿Qué es este proyecto?
+##  ¿Qué es este proyecto?
 
 **AgroSmart** es un programa hecho en **Java** que busca ayudar a los **agricultores y recolectores** a trabajar de una forma **más eficiente, rápida y con menos desgaste físico**.
 
@@ -13,7 +13,7 @@ De esta forma, se logra una **mejor distribución del trabajo**, se **minimizan 
 
 ---
 
-## 🍃 ¿Por qué hicimos esto?
+##  ¿Por qué hicimos esto?
 
 En muchos cultivos (café, caña, maíz, cacao, plátano, etc.), la organización de los recolectores se hace “a ojo”, sin una planificación basada en datos.  
 Esto genera varios problemas:
@@ -28,7 +28,7 @@ Solo se necesitan los datos de las parcelas y los recolectores para generar una 
 
 ---
 
-## 💡 ¿Cómo funciona?
+##  ¿Cómo funciona?
 
 El sistema trabaja con **datos básicos del cultivo y del terreno**, y a partir de eso toma decisiones.
 
@@ -59,7 +59,7 @@ El sistema sugiere **qué recolector va a cada zona**, **cuánto recogerá** y *
 
 ---
 
-## 🌤️ Tiempo óptimo de recolección
+##  Tiempo óptimo de recolección
 
 AgroSmart también puede analizar **cuándo el cultivo estará listo para cosechar**, dependiendo del tipo y del clima.
 
@@ -70,7 +70,7 @@ Por ejemplo:
 
 El programa puede estimar la **fecha de cosecha óptima** a partir de la fecha de siembra o floración ingresada.
 
-🧮 Ejemplo:
+ Ejemplo:
 > Si el maíz se sembró el 10 de junio,  
 > el sistema sugiere la cosecha entre el **5 y el 10 de octubre**.
 
@@ -78,7 +78,7 @@ Esto ayuda a los agricultores a **organizar la mano de obra y los recursos** ant
 
 ---
 
-## 🧩 Estructura del código
+## Estructura del código
 
 | Clase | Función |
 |-------|----------|
@@ -89,7 +89,7 @@ Esto ayuda a los agricultores a **organizar la mano de obra y los recursos** ant
 
 ---
 
-## 🧠 Lógica del algoritmo
+##  Lógica del algoritmo
 
 1. Lee los datos de las parcelas, cultivos y recolectores.  
 2. Calcula la **distancia** entre cada recolector y las parcelas disponibles.  
@@ -99,13 +99,9 @@ Esto ayuda a los agricultores a **organizar la mano de obra y los recursos** ant
 
 ---
 
-## 🛠️ Cómo usar el programa
 
-1. Clona o descarga el repositorio:  
+## Ejemplo de salida del programa
 
-## 🧭 Ejemplo de salida del programa
-
-## 📊 Resultado de asignación óptima
 
 ```text
 Recolector 1 - Total: 60kg (Cultivo: Café)
