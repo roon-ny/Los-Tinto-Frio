@@ -55,23 +55,6 @@ El sistema trabaja con **datos básicos del cultivo y del terreno**, y a partir 
   - 1 km = 1 hora de caminata.
 
 ---
-
-## 🧭 Ejemplo de salida del programa
-
-## 📊 Resultado de asignación óptima
-
-```text
-Recolector 1 - Total: 60kg (Cultivo: Café)
-   ➜ Parcela 1 (2.0,3.0) - 25kg
-   ➜ Parcela 4 (1.0,8.0) - 35kg
-Tiempo estimado: 7.8 horas
-
-Recolector 2 - Total: 55kg (Cultivo: Maíz)
-   ➜ Parcela 2 (5.0,1.0) - 15kg
-   ➜ Parcela 3 (7.0,4.0) - 20kg
-   ➜ Parcela 5 (4.0,7.0) - 20kg
-Tiempo estimado: 6.5 horas
-
 El sistema sugiere **qué recolector va a cada zona**, **cuánto recogerá** y **cuánto tiempo tardará**, ayudando a planificar toda la jornada.
 
 ---
@@ -119,5 +102,19 @@ Esto ayuda a los agricultores a **organizar la mano de obra y los recursos** ant
 ## 🛠️ Cómo usar el programa
 
 1. Clona o descarga el repositorio:  
-   ```bash
-   git clone https://github.com/usuario/AgroSmart.git
+
+## 🧭 Ejemplo de salida del programa
+
+## 📊 Resultado de asignación óptima
+
+```text
+Recolector 1 - Total: 60kg (Cultivo: Café)
+   ➜ Parcela 1 (2.0,3.0) - 25kg
+   ➜ Parcela 4 (1.0,8.0) - 35kg
+Tiempo estimado: 7.8 horas
+
+Recolector 2 - Total: 55kg (Cultivo: Maíz)
+   ➜ Parcela 2 (5.0,1.0) - 15kg
+   ➜ Parcela 3 (7.0,4.0) - 20kg
+   ➜ Parcela 5 (4.0,7.0) - 20kg
+Tiempo estimado: 6.5 horas
