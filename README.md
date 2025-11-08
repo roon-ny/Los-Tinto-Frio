@@ -101,33 +101,39 @@ Esto ayuda a los agricultores a **organizar la mano de obra y los recursos** ant
 
 
 ## Ejemplo de salida del programa
+## 📊 RESULTADO DE ASIGNACIÓN DE RECOLECTORES
 
-📊 RESULTADO DE ASIGNACIÓN DE RECOLECTORES
+**Recolector 1 - Total asignado:** 65.0kg  
+   ➜ Parcela 4 (1.0,8.0) - 30.0kg *(Plátano)*  
+   ➜ Parcela 1 (2.0,3.0) - 25.0kg *(Café)*  
+   ➜ Parcela 5 (4.0,7.0) - 10.0kg *(Café)*  
+   ⏱️ **Tiempo estimado de recolección:** 6.50 horas  
 
-Recolector 1 - Total asignado: 65.0kg
-   ➜ Parcela 4 (1.0,8.0) - 30.0kg (Plátano)
-   ➜ Parcela 1 (2.0,3.0) - 25.0kg (Café)
-   ➜ Parcela 5 (4.0,7.0) - 10.0kg (Café)
-   ⏱️ Tiempo estimado de recolección: 6.50 horas
+---
 
-Recolector 2 - Total asignado: 35.0kg
-   ➜ Parcela 3 (7.0,4.0) - 20.0kg (Cacao)
-   ➜ Parcela 2 (5.0,1.0) - 15.0kg (Maíz)
-   ⏱️ Tiempo estimado de recolección: 3.50 horas
+**Recolector 2 - Total asignado:** 35.0kg  
+   ➜ Parcela 3 (7.0,4.0) - 20.0kg *(Cacao)*  
+   ➜ Parcela 2 (5.0,1.0) - 15.0kg *(Maíz)*  
+   ⏱️ **Tiempo estimado de recolección:** 3.50 horas  
 
-📦 Resumen general:
- - Total de recolectores: 2
- - Carga total: 100.0kg
- - Promedio por recolector: 50.0kg
- - Tiempo total estimado: 10.0 horas
+---
 
-✅ Asignación completada con éxito.
+### 📦 Resumen general:
+- **Total de recolectores:** 2  
+- **Carga total:** 100.0kg  
+- **Promedio por recolector:** 50.0kg  
+- **Tiempo total estimado:** 10.0 horas  
 
-🌾 TIEMPOS DE MADURACIÓN DE LOS CULTIVOS:
+✅ *Asignación completada con éxito.*
 
- - Café (madura en 220 días)
- - Maíz (madura en 120 días)
- - Cacao (madura en 160 días)
- - Plátano (madura en 300 días)
+---
 
-📅 Esto ayuda a planificar cuándo cada cultivo estará listo para cosechar.
+## 🌾 TIEMPOS DE MADURACIÓN DE LOS CULTIVOS
+
+- ☕ **Café:** madura en 220 días  
+- 🌽 **Maíz:** madura en 120 días  
+- 🍫 **Cacao:** madura en 160 días  
+- 🍌 **Plátano:** madura en 300 días  
+
+📅 *Esta información ayuda a planificar cuándo cada cultivo estará listo para cosechar.*
+
